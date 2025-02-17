@@ -10,6 +10,10 @@ It include the following applications:
 
 1. **gateway:** Entry point into the backend.
 
+## Todos
+
+- [ ] Authentication (OAuth)
+
 ## Project setup
 
 ```bash
