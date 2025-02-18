@@ -12,6 +12,7 @@ It include the following applications:
 
 ## Todos
 
+- [ ] Convert the gateway into Graphql
 - [ ] Authentication (OAuth)
 
 ## Project setup
